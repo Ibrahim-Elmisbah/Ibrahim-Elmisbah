@@ -17,7 +17,8 @@ Also, I'm an **ENTP** who loves exploring new things.
 
 - 📚 Reading *everything*—the more abstract, the better.  
 - 🎨 Drawing on anything—paper, sand, lemons, Cartesian planes...
-   Here’s one of them: **Descartes in math functions**
+  Here’s my masterpiece:
+  ### **Descartes in math functions**
 
   ![Deascates](P1.png)
 
