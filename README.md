@@ -19,7 +19,7 @@ Also, I'm an **ENTP** who loves exploring new things.
 - 🎨 Drawing on anything—paper, sand, lemons, Cartesian planes...
    Here’s one of them: **Descartes in math functions**
 
-  ![Descartes](Ibrahim-Elmisbah\.vscode\P1.png)
+  ![Deascates](P1.png)
 
 ## Fun Facts
 
