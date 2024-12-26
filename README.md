@@ -37,7 +37,7 @@ Also, I'm an **ENTP** who loves exploring new things.
 | 📺 **Series**           | *Attack on Titan*                                 |
 | 💻 **Programming Tool** | Visual Studio Code                                |
 | 📊 **Subject**          | Probability & Statistics                          |
- <!-- Necessary long line in, the name of the book is too long -->
+ <!-- Necessary long line, the name of the book is too long -->
 ---
 
 ### *"The truth springs from argument amongst friends."* — *David Hume*
