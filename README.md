@@ -33,11 +33,11 @@ Also, I'm an **ENTP** who loves exploring new things.
 | **Category**            | **Favorite**                                       |
 |--------------------------|---------------------------------------------------|
 | 🍽️ **Food**             | Shayaa                                            |
-| 📚 **Book**             | *The History of Philosophy from Ancient Greek to Contemporary* | <!-- Necessary long line. -->
+| 📚 **Book**             | *The History of Philosophy from Ancient Greek to Contemporary* |
 | 📺 **Series**           | *Attack on Titan*                                 |
 | 💻 **Programming Tool** | Visual Studio Code                                |
 | 📊 **Subject**          | Probability & Statistics                          |
-
+ <!-- Necessary long line in, the name of the book is too long -->
 ---
 
 ### *"The truth springs from argument amongst friends."* — *David Hume*
