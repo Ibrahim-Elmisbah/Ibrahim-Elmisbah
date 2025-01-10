@@ -52,5 +52,5 @@ _____
 <!-- markdownlint-disable MD033 -->
 <div style="text-align: left; margin-top: 40px;">
   <img src="Hume.gif"
-  alt="Description of the GIF" style="width: 600px;">
+  alt="Description of the GIF" style="width: 300px;">
 </div>
